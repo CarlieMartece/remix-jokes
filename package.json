@@ -19,7 +19,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@flydotio/dockerfile": "^0.2.16",
     "@remix-run/dev": "^1.17.1",
     "@remix-run/eslint-config": "^1.17.1",
     "@types/bcryptjs": "^2.4.2",
